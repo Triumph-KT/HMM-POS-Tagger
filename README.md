@@ -1,4 +1,5 @@
-# HMM POS Tagger
+# HMM-POS-Tagger
+Java-based Part-of-Speech Tagger using Hidden Markov Models and Viterbi Algorithm.
 
 ## Overview
 A Java-based Part-of-Speech (POS) tagger utilizing **Hidden Markov Models (HMM)** and the **Viterbi Algorithm** to accurately tag words in a sentence. Achieves **96.5% accuracy** on the Brown corpus.
@@ -19,6 +20,3 @@ A Java-based Part-of-Speech (POS) tagger utilizing **Hidden Markov Models (HMM)*
 1. Compile the Java files:
    ```bash
    javac src/*.java
-
-# HMM-POS-Tagger
-Java-based Part-of-Speech Tagger using Hidden Markov Models and Viterbi Algorithm.
