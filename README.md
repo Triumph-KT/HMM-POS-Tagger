@@ -22,4 +22,3 @@ A Java-based Part-of-Speech (POS) tagger utilizing **Hidden Markov Models (HMM)*
 
 # HMM-POS-Tagger
 Java-based Part-of-Speech Tagger using Hidden Markov Models and Viterbi Algorithm.
->>>>>>> 9c27f022a64584b1dd8aff7fb3dafce16b88570c
